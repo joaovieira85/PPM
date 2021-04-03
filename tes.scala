@@ -1,3 +1,3 @@
-//main
-//123
-//ZZZ
+def metade(x: Int): Int = {
+  x / 2;
+}
